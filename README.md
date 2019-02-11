@@ -8,7 +8,7 @@ For this learning by doing session, we are going to use VSCode.
 
 To set up a project, download [VSCode](https://code.visualstudio.com/download), and [Spring Boot Extention Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack).
 
-Since we are development a project in Java, make sure that JDK is downloaded and configured properly.
+Since we are developing a project in Java, make sure that JDK is downloaded and configured properly.
 
 ## Test
 The final result is in the develop branch. 
